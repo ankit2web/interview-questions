@@ -3,7 +3,7 @@
 + [How do we control the resource usage of POD?](#How-do-we-control-the-resource-usage-of-POD)
 + [What are the various K8's services running on nodes and describe the role of each service?](#What-are-the-various-K8's-services-running-on-nodes-and-describe-the-role-of-each-service)
 + [What is PDB (Pod Disruption Budget)?](#What-is-PDB-(Pod-Disruption-Budget))
-+ [WhatвЂ™s the init container and when it can be used?](#WhatвЂ™s-the-init-container-and-when-it-can-be-used)
++ [What is the init container and when it can be used?](#WhatвЂ™s-the-init-container-and-when-it-can-be-used)
 + [What is the role of Load Balance in Kubernetes?](#What-is-the-role-of-Load-Balance-in-Kubernetes)
 + [What are the various things that can be done to increase Kubernetes security?](#What-are-the-various-things-that-can-be-done-to-increase-Kubernetes-security)
 + [How to monitor the Kubernetes cluster?](#How-to-monitor-the-Kubernetes-cluster)
